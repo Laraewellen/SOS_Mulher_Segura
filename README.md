@@ -23,7 +23,7 @@ O **SOS Mulher Segura** é uma aplicação web com suporte a PWA (Progressive We
 
 - **Backend**: Django 4.x (Python 3.10+)  
 - **Frontend**: React (via integração PWA)  
-- **Banco de Dados Principal**: PostgreSQL  
+- **Banco de Dados Principal**: Mysql  
 - **Banco Simulado da Polícia**: MySQL  
 - **Padrão Arquitetural**: MVC (Model-View-Controller)  
 - **Implantação**: Monolítico modular, com estrutura migrável para micro-serviços  
